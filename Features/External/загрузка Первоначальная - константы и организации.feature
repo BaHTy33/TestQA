@@ -2,7 +2,7 @@
 
 @tree
 @ExportScenarios
-@IgnoreOnCIMainBuild
+//@IgnoreOnCIMainBuild
 
 Функционал: Первоначальная загрузка - константы и организации
 
